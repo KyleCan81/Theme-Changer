@@ -1,0 +1,20 @@
+
+.Lightmode {
+    background-color: white;
+    color:black;
+}
+
+.Darkmode {
+    background-color: black;
+    color: white;
+}
+
+.Bluemode {
+    background-color: blue;
+    color: aqua;
+}
+
+.Greenmode {
+    background-color: green;
+    color: mediumspringgreen;
+}
